@@ -119,7 +119,7 @@
     "i18n-iso-countries": "6.1.0",
     "image-size": "0.6.3",
     "jquery": "2.2.1",
-    "js-yaml": "3.12.0",
+    "js-yaml": "3.13.1",
     "jsonwebtoken": "8.3.0",
     "knockout": "3.5.0",
     "locale-currency": "0.0.2",
