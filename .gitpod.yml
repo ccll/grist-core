@@ -1,0 +1,11 @@
+tasks:
+  - init: |
+      yarn install
+      yarn run build:prod
+      yarn run install:python
+    command: |
+      yarn start
+
+ports:
+  - port: 8484
+    onOpen: open-browser
